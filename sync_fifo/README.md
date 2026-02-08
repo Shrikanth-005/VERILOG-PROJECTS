@@ -15,4 +15,4 @@ flag generation.
 - `fifo_sync_tb.v` – Testbench for verification
 
 ## Author
-Shrikanth N
+Shrikanth N M

@@ -1,23 +1,27 @@
-# PS/2 Keyboard Scan Code to ASCII Converter using FSM
+# VERILOG / VLSI PROJECTS
 
-This project implements a PS/2 keyboard controller using Verilog HDL.
-It decodes keyboard scan codes using a finite state machine (FSM) and
-converts valid key press events into ASCII values.
+This repository contains a collection of digital design and VLSI projects
+implemented using Verilog / SystemVerilog HDL.
 
-## Files
-- `ps2_keyboard_controller.sv` – Keyboard controller (FSM-based)
-- `tb_keyboard_controller.sv`  – Testbench for verification
+The projects focus on fundamental and advanced concepts in digital design,
+including finite state machines (FSM), timing, control logic, and hardware
+verification using testbenches.
 
-## Features
-- FSM-based make/break detection
-- Parity checking for scan code validation
-- Scan code to ASCII conversion
-- Verilog HDL implementation
-- Testbench with waveform generation
+## Project Categories
+- Finite State Machine (FSM) designs
+- Communication protocol controllers
+- Digital logic modules
+- Verification using testbenches
+- Timing and control-oriented designs
 
-## Simulation
-The design was verified using a Verilog testbench and waveform
-analysis (`dump.vcd`) in EDA Playground.
+## Projects Included
+- PS/2 Keyboard Scan Code to ASCII Converter (FSM-based)
+
+## Tools & Technologies
+- Verilog / SystemVerilog
+- EDA Playground
+- EPWave (waveform analysis)
+- Digital logic design principles
 
 ## Author
 Shrikanth N

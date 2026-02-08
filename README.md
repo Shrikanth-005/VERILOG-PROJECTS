@@ -1,4 +1,4 @@
-# VERILOG / VLSI PROJECTS
+# VLSI VERILOG PROJECTS
 
 This repository contains a collection of digital design and VLSI projects
 implemented using Verilog / SystemVerilog HDL.

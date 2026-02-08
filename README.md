@@ -24,4 +24,4 @@ verification using testbenches.
 - Digital logic design principles
 
 ## Author
-Shrikanth N
+Shrikanth N M
